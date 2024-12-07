@@ -1,1 +1,3 @@
 # lemicoin-com
+
+Launching soon...
