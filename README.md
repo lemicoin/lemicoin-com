@@ -3,7 +3,7 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/lemicoin/lemicoin-com/main/lemi.png" alt="Lemicoin" width="256"/>
 <br/><br/>
-Lemicoin (LEMI)  
+Lemicoin (LEMI, Ł)  
 </h1>
 
 # Launching soon...
