@@ -1,7 +1,7 @@
 # lemicoin-com
 
 <h1 align="center">
-<img src="https://lemicoin.com/lemi.png" alt="Lemicoin" width="256"/>
+<img src="https://github.com/lemicoin/lemicoin-com/blob/main/lemi.png" alt="Lemicoin" width="256"/>
 <br/><br/>
 Lemicoin (LEMI)  
 </h1>
