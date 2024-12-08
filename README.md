@@ -11,8 +11,4 @@ Lemicoin (LEMI, Ł)
 Lemicoin is a fun and eco-friendly memecoin inspired by the "Chill Out Lemur" meme. Powered by the Proof of Stake (PoS) algorithm, it secures the network without energy-intensive mining, rewarding those who maintain it through a dedicated core wallet.
 
 [Download](https://github.com/lemicoin/lemicoin/releases) | [GitHub](https://github.com/lemicoin/) | [Whitepaper](https://bitcointalk.org/index.php?topic=5522000)
-<<<<<<< HEAD
 [Discord](https://dsc.gg/lemicoin) | [X (Twitter)](https://x.com/lemicoin) | [Telegram](https://t.me/lemicoin)
-=======
-[Discord](https://dsc.gg/lemicoin) | [X (Twitter)](https://x.com/lemicoin) | [Telegram](https://t.me/lemicoin)
->>>>>>> 8458d4b517c238d36e709f660054213572e92a51
