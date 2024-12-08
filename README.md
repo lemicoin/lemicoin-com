@@ -6,7 +6,7 @@
 Lemicoin (LEMI, Ł)  
 </h1>
 
-# Launching soon...
+# Launching in January...
 
 Lemicoin is a fun and eco-friendly memecoin inspired by the "Chill Out Lemur" meme. Powered by the Proof of Stake (PoS) algorithm, it secures the network without energy-intensive mining, rewarding those who maintain it through a dedicated core wallet.
 
